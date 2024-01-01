@@ -8,7 +8,7 @@ my cdn files like js css etc..
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="user-progress-bar.js"></script>
+  <script src="[user-progress-bar.js](https://swerce.github.io/My-cdn-s/prog010.js)"></script>
   <title>Customizable Progress Bar Example</title>
 </head>
 <body>
